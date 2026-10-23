@@ -1,7 +1,5 @@
 <img src="pip-field.svg" alt="Pip, a pixel robot, walking around his field" width="100%">
 
-<br>
-
 # Nikola Vujić
 
 Frontend-leaning full-stack engineer from Serbia. Years of Angular and TypeScript in enterprise SaaS
@@ -10,9 +8,9 @@ and deploying the whole stack and moving into AI-powered features.
 
 [Portfolio](https://portfolio.nv-platform.com/portfolio/) · [LinkedIn](https://www.linkedin.com/in/nikola-vujić-aa9687152)
 
-### Projects
+### Current projects
 
-- **[portfolio](https://github.com/nikvujic/portfolio)** - my portfolio site: React 19, TypeScript, Tailwind, Framer Motion, AWS Amplify, GitHub Actions
+- **[portfolio](https://github.com/nikvujic/portfolio)** - my portfolio site: React 19, TypeScript, Tailwind, Framer Motion, AWS Amplify, GitHub Actions. [Live](https://portfolio.nv-platform.com/portfolio/)
 - **Simple Kanban** - [frontend](https://github.com/nikvujic/simple-kanban) (React, Redux Toolkit) + [API](https://github.com/nikvujic/simple-kanban-server) (Express, Prisma, PostgreSQL, JWT, Docker). [Live](https://simple-kanban.nv-platform.com)
 - **[The App](https://github.com/nikvujic/mob-util-app)** - offline-first, private Android app in Flutter + Riverpod: encrypted backups, layered architecture, 2,300+ tests
 
