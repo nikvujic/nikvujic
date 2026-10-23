@@ -22,11 +22,6 @@ and deploying the whole stack and moving into AI-powered features.
 
 [![Tech I work with](https://skillicons.dev/icons?i=ts,angular,react,flutter,dart,nodejs,express,prisma,postgres,docker,githubactions,aws,firebase)](https://skillicons.dev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikvujic/nikvujic/output/snake-dark.svg">
-  <img alt="My contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/nikvujic/nikvujic/output/snake.svg">
-</picture>
-
 <br>
 <br>
 
